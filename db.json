@@ -14,6 +14,14 @@
         { "id": 4, "nom": "Jemni" , "prenom": "Sawsen", "Email": "sawsen@gmail.com", "telephone": 53550917, "Organisation":"Organisation des Nations Unies", "Statut":"Actif", "CIN": 11557857 , "Date_de_naissance":"2022-02-13" , "pays":"France" , "adresse":"11 Rue metline 7042" , "Fonction_organisation":"Président banque centrale" , "secteur_dactivites":"Commerce de gros" },
         { "id": 5, "nom": "Dkhil" , "prenom": "Rabiaa", "Email": "rabiaa.dkhil@gmail.com" , "telephone": 53550917, "Organisation":"Haut-Commissariat aux Droits de l'Homme", "Statut":"Inactif", "CIN": 11547857 , "Date_de_naissance":"2022-02-13" , "pays":"Tunis" , "adresse":"11 Rue nabeul 7042" , "Fonction_organisation":"Directeur générale" , "secteur_dactivites":"Construction" },
         { "id": 6, "nom": "Selmi" , "prenom": "Anas" ,   "Email": "anas25.selmi@gmail.com" , "telephone": 24158369, "Organisation":"Fac de science Bizerte", "Statut":"Actif", "CIN": 11747857 , "Date_de_naissance":"2022-02-13" , "pays":"France" , "adresse":"11 Rue bizerte 7042" , "Fonction_organisation":"Etudiant" , "secteur_dactivites":"Sciences économiques et de gestion" }
+  ] , 
+   "ListeSuggestions": [
+        { "id": 1, "Suggestion": "Créer une association de consommateurs ", "description": "description ici", "date_suggestion": "2022-04-24", "Statut":"Adopter" , "type_de_suggestion":"Evenement" },
+        { "id": 2, "Suggestion": "Proposer des formations et des conseils pour les personnes ayant des difficultés avec l’éducation", "description": "description ici", "date_suggestion": "2022-05-20", "Statut":"Nouvelle" , "type_de_suggestion":"Formation" },
+        { "id": 3, "Suggestion": "Créer une compagnie de théâtre.", "description": "description ici", "date_suggestion": "2021-01-01", "Statut":"Nouvelle" , "type_de_suggestion":"Projet" },
+        { "id": 4, "Suggestion": "Lancer un evenement pour la commercialisation du platforme", "description": "description ici", "date_suggestion": "2021-17-02", "Statut":"Adopter" , "type_de_suggestion":"Formation" },
+        { "id": 5, "Suggestion": "Créer un evenement de sponsoring pour améliorer les locales ", "description": "description ici ", "date_suggestion": "2022-14-07", "Statut":"Nouvelle" , "type_de_suggestion":"Evenement" }
+      
   ]
   
 }
