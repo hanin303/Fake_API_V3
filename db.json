@@ -17,7 +17,7 @@
   ] , 
    "ListeSuggestions": [
         { "id": 1, "Suggestion": "Créer une association de consommateurs ", "description": "description ici", "date_suggestion": "2022-04-24", "Statut":"Nouvelle" , "type":"idée" , "type_de_suggestion":"Evenement" },
-        { "id": 2, "Suggestion": "Proposer des formations et des conseils pour les personnes ayant des difficultés avec l’éducation", "description": "description ici", "date_suggestion": "2022-05-20", "Statut":"Nouvelle" , "type":"suggestion" , "type_de_suggestion":"Formation" },
+        { "id": 2, "Suggestion": "Proposer des formations pour les personnes de l’éducation", "description": "description ici", "date_suggestion": "2022-05-20", "Statut":"Nouvelle" , "type":"suggestion" , "type_de_suggestion":"Formation" },
         { "id": 3, "Suggestion": "Créer une compagnie de théâtre.", "description": "description ici", "date_suggestion": "2021-01-01", "Statut":"Nouvelle" , "type":"suggestion" , "type_de_suggestion":"Projet" },
         { "id": 4, "Suggestion": "Lancer un evenement pour la commercialisation du platforme", "description": "description ici", "date_suggestion": "2021-17-02", "Statut":"Nouvelle" , "type":"idée" , "type_de_suggestion":"Formation" },
         { "id": 5, "Suggestion": "Créer un evenement de sponsoring pour améliorer les locales ", "description": "description ici ", "date_suggestion": "2022-14-07", "Statut":"Nouvelle" , "type":"idée" , "type_de_suggestion":"Evenement" }
